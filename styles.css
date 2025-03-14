@@ -1,0 +1,34 @@
+h2 {
+    font-family: Comfortaa;
+    text-align: center;
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header {
+    text-align: center;
+    background: url('https://png.pngtree.com/background/20210716/original/pngtree-cute-dog-tiled-background-bone-claw-print-picture-image_1349644.jpg');
+    background-size: cover;
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+body {
+    background-color: rgb(253, 204, 212);
+}
+#makeBackground {
+    font-size: 200px;
+}
+p {
+    padding: 10px;
+}
+.makeSkyBlue {
+    color: skyblue;
+}
+h1 {
+    font-size: 60px;
+    color: skyblue;
+}
